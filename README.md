@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzy
 - 👀 I’m interested in Fitness,Photo
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning HCIP
 - 📫 How to reach me ********@qq.com
 
 <!---
